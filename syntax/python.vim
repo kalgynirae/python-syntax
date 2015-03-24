@@ -575,7 +575,7 @@ if version >= 508 || !exists("did_python_syn_inits")
   HiLink pythonStatement        Statement
   HiLink pythonLambdaExpr       Statement
   HiLink pythonImport           Statement
-  HiLink pythonFunction         Function
+  HiLink pythonFunction         Normal
   HiLink pythonConditional      Conditional
   HiLink pythonRepeat           Repeat
   HiLink pythonException        Statement
